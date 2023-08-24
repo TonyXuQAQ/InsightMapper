@@ -50,10 +50,19 @@ We visualize live demos of InsightMapper under various scenarios, with different
 
 
 ## Code and data
-Comming soon... For latest update, please refer to our [github repo](https://github.com/TonyXuQAQ/InsightMapper/tree/main). 
+The code will be released in a later stage. For latest update, please refer to our [github repo](https://github.com/TonyXuQAQ/InsightMapper/tree/main). 
 
 ## Contact
 For any questions, please send email to zhxuv at hku dot hk or open an issue in the [github repo](https://github.com/TonyXuQAQ/InsightMapper/tree/main).
+
+## Acknowledgement
+We thank these high-quality open-sourced projects 
+[MapTR](https://github.com/hustvl/MapTR),
+[VectorMapNet](https://tsinghua-mars-lab.github.io/vectormapnet/),
+[HDMapNet](https://tsinghua-mars-lab.github.io/HDMapNet/),
+[STSU](https://github.com/ybarancan/STSU),
+[Sat2Graph](https://github.com/songtaohe/Sat2Graph),
+[Deformable DETR](https://github.com/fundamentalvision/Deformable-DETR).
 
 ## Citation
 ```
