@@ -14,7 +14,6 @@ affiliations:
     the University of Hong Kong
 paper: https://arxiv.org/abs/2308.08543
 code: https://github.com/TonyXuQAQ/InsightMapper/tree/main
-supplementary: ./pdf/2024_InsightMapper_Appendix.pdf
 ---
 
 <div class="columns is-centered has-text-centered">
